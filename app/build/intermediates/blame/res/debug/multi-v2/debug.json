@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Apoorva/development-master-samples-OpenGL-HelloOpenGLES20/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/Apoorva/development-master-samples-OpenGL-HelloOpenGLES20/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "734,682",
+                        "endColumns": "46,51",
+                        "endOffsets": "776,729"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,102",
+                        "endColumns": "46,51",
+                        "endOffsets": "97,149"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Apoorva/development-master-samples-OpenGL-HelloOpenGLES20/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/Apoorva/development-master-samples-OpenGL-HelloOpenGLES20/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/Apoorva/development-master-samples-OpenGL-HelloOpenGLES20/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/Users/Apoorva/development-master-samples-OpenGL-HelloOpenGLES20/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Apoorva/development-master-samples-OpenGL-HelloOpenGLES20/app/build/intermediates/res/merged/debug/drawable_img.jpeg.flat",
+        "source": "/Users/Apoorva/development-master-samples-OpenGL-HelloOpenGLES20/app/src/main/res/drawable/img.jpeg"
+    }
+]
